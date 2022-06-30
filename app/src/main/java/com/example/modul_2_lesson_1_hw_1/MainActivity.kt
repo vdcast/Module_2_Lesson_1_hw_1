@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d("MYLOG", "First commit")
+        Log.d("MYLOG", "Second commit")
 
     }
 }
