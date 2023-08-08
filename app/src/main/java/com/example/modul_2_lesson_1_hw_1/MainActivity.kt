@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("MYLOG", "First commit")
         Log.d("MYLOG", "Second commit")
         Log.d("MYLOG", "Third commit")
+
     }
 }
