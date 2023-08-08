@@ -3,9 +3,11 @@
 
 Project structure. Git.
 
-**Technical task:**
+**Task:**
 
 Create / take any project, connect Git (only locally), make the first commit. Then make some changes, make a second commit, and similarly a third one.
 Upload all previous projects to GitHub.
+
+**Result:**
 
 ![image](https://github.com/vdcast/Module_2_Lesson_2_hw_1/assets/108469609/ba806f78-1f23-44ea-be38-0bfe502e8afb)
